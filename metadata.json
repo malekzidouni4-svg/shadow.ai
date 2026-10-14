@@ -1,0 +1,8 @@
+{
+  "name": "Bayan AI - منصة الذكاء الاصطناعي الشاملة",
+  "description": "منصة ذكاء اصطناعي متكاملة باللغة العربية والعالمية للمحادثة المتقدمة، التفكير التحليلي، توليد الصور، تحليل المستندات وتحويل النص إلى صوت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
